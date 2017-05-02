@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"../utils"
+	"github.com/manparvesh/al-go-rithms/sorting/utils"
 )
 
 // TestBubbleSort tests bubble sort
