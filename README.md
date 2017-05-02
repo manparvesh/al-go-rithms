@@ -1,4 +1,4 @@
-# Al-[GO](https://golang.org/)-rithms
+# Al-[GO](https://golang.org/)-rithms [![Build Status](https://travis-ci.org/manparvesh/al-go-rithms.svg?branch=master)](https://travis-ci.org/manparvesh/al-go-rithms)
 Implementations of data structures and algorithms in [Golang](https://golang.org/).  
 Inspired by [this](https://github.com/keon/algorithms) and [this](https://github.com/arnauddri/algorithms) list of examples of algorithm implementations. 
 
