@@ -2,7 +2,6 @@ language: go
 
 go:
   - 1.8
-  - tip
 
 script:
   - go build -x -v ./...
