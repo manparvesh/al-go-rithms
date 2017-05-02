@@ -7,8 +7,8 @@ import (
 	"github.com/manparvesh/al-go-rithms/sorting/utils"
 )
 
-// TestBubbleSort tests bubble sort
-func TestBubbleSort(t *testing.T) {
+// TestInsertionSort tests bubble sort
+func TestInsertionSort(t *testing.T) {
 	list := utils.GetArrayOfSize(1e1)
 	sort(list)
 	fail := false
