@@ -3,7 +3,7 @@ Implementations of data structures and algorithms in [Golang](https://golang.org
 Inspired by [this](https://github.com/keon/algorithms) and [this](https://github.com/arnauddri/algorithms) list of examples of algorithm implementations. 
 
 #### List of implementations
- - [ ] Sorting
+ - [ ] [Sorting](https://github.com/manparvesh/al-go-rithms/blob/master/sorting)
    - [x] [Bubble sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/bubble)
    - [x] [Merge sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/merge)
    - [x] [Insertion sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/insertion)
@@ -37,3 +37,6 @@ Inspired by [this](https://github.com/keon/algorithms) and [this](https://github
    - [ ] permute unique
    - [ ] subsets
    - [ ] subsets unique
+
+ - [ ] Array
+   - [x] [next_permutation](https://github.com/manparvesh/al-go-rithms/blob/master/array/next_permutation)
