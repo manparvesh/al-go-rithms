@@ -5,8 +5,11 @@ import (
 )
 
 func TestLinkedList(t *testing.T) {
-	list := newList()
-	list.appendValue(interface{1})
-	list.appendValue(interface{2})
-	list.printList()
+	list := NewList()
+	list.AppendValue(1)
+	list.AppendValue("nomnom")
+	if list.Size() < 2 {
+		t.Error()
+	}
+	list.PrintList()
 }
