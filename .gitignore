@@ -25,3 +25,7 @@ _testmain.go
 
 # VS Code prefs folder
 .vscode
+
+# GoLand
+.idea
+
