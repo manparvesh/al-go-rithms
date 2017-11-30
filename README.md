@@ -10,7 +10,7 @@ Inspired by [keon/algorithms](https://github.com/keon/algorithms) and [arnauddri
    - [x] [Selection sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/selection)
    - [ ] Quick sort
    - [ ] Topological sort
-   - [ ] Heap sort
+   - [x] [Heap sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/heap)
    - [ ] Bucket sort
    - [ ] Shell sort
    
