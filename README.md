@@ -12,7 +12,7 @@ Inspired by [keon/algorithms](https://github.com/keon/algorithms) and [arnauddri
    - [ ] Topological sort
    - [ ] Heap sort
    - [ ] Bucket sort
-   - [ ] Shell sort
+   - [x] [Shell sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/shell)
    
  - [ ] Searching
    - [ ] Binary search
