@@ -7,7 +7,7 @@ import (
 	"github.com/manparvesh/al-go-rithms/sorting/utils"
 )
 
-// TestQuickSort tests bubble sort
+// TestQuickSort tests quick sort
 func TestQuickSort(t *testing.T) {
 	list := utils.GetArrayOfSize(1e1)
 	sort(list)
