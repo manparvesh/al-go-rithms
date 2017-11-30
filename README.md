@@ -8,7 +8,7 @@ Inspired by [keon/algorithms](https://github.com/keon/algorithms) and [arnauddri
    - [x] [Merge sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/merge)
    - [x] [Insertion sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/insertion)
    - [x] [Selection sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/selection)
-   - [ ] Quick sort
+   - [x] [Quick sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/quick)
    - [ ] Topological sort
    - [ ] Heap sort
    - [ ] Bucket sort
