@@ -11,8 +11,8 @@ Inspired by [keon/algorithms](https://github.com/keon/algorithms) and [arnauddri
    - [ ] Quick sort
    - [ ] Topological sort
    - [x] [Heap sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/heap)
-   - [ ] Bucket sort
-   - [ ] Shell sort
+   - [x] [Bucket sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/bucket)
+   - [x] [Shell sort](https://github.com/manparvesh/al-go-rithms/blob/master/sorting/shell)
    
  - [ ] Searching
    - [ ] Binary search
